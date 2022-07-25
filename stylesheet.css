@@ -1,0 +1,75 @@
+/* BODY */
+
+body{
+	background: linear-gradient(180deg, white, gray);
+	font-family: "Courier New", Helvetica, sans-serif;
+	
+}
+
+
+
+
+
+/* Header NAV */ 
+
+.h1-header {
+	text-align: center;
+	background-image:
+      radial-gradient(at 50% 0, blue 0%, red 50%, transparent 75%);
+    background-size: 100% 2px;
+	color: white;
+	text-shadow: black 3px 3px;
+
+	
+	
+	
+}
+
+/* BODY */
+
+.course-description-left-float h3 {
+	color: white;
+	background: black;
+	text-align:center;
+	padding: 2px;
+	border-radius: 5px;
+	
+}
+
+#read-more{
+	text-decoration: none;
+	color: red;
+	
+}
+
+#read-more:hover{
+	text-decoration: underline;
+	color: #8B0000;
+}
+
+/* TABLE */
+
+.web-tech-table h3{
+	color: white;
+	background: black;
+	text-align: center;
+}
+
+html5-heading, css3-heading, javascript-heading, .img {
+	border-radius: 200px;
+	box-shadow: black 5px 5px;
+}
+
+html5-heading, css3-heading, javascript-heading, a{
+	text-decoration: none;
+	color: red;
+}
+
+html5-heading, css3-heading, javascript-heading, a:hover{
+	text-decoration: underline;
+	color: #8B0000;
+}
+
+
+	
+	
